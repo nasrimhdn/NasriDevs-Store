@@ -1,15 +1,8 @@
-NasriDevs-Store
+# NasriDevs-Store
 
 -MERN E-commerce Project
-[
-MONGO-EXPRESS-REACT-NODE
-Styled Component 
-Redux-Toolkit 
-Redux-Persist
-React-dom
-Axios 
-STRIPE
-]
+
+MONGO,EXPRESS,REACT,NODE,Styled Component,Redux-Toolkit,Redux-Persist,React-dom,Axios,STRIPE
 
 -Authentication and Authorization signUp and signIn
 
