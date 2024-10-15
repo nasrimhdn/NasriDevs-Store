@@ -39,6 +39,7 @@ MONGO,EXPRESS,REACT,NODE,Styled Component,Redux-Toolkit,Redux-Persist,React-dom,
 -calculating revenue
 
 # Screenshots
+
 <img width="1280" alt="1" src="https://github.com/user-attachments/assets/ca6ba5fd-db0c-4a41-b2ce-9f7f2c9a3bb4">
 <img width="1280" alt="2" src="https://github.com/user-attachments/assets/48eb0c9c-74cb-4cf1-b29c-0340425606be">
 <img width="1280" alt="3" src="https://github.com/user-attachments/assets/92b56488-62e2-4873-a725-f7dcbc176bd3">
