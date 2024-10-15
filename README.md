@@ -37,3 +37,9 @@ MONGO,EXPRESS,REACT,NODE,Styled Component,Redux-Toolkit,Redux-Persist,React-dom,
 -chart analysis for sells
 
 -calculating revenue
+
+# Screenshots
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/ca6ba5fd-db0c-4a41-b2ce-9f7f2c9a3bb4">
+
+
+
