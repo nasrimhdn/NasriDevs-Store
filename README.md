@@ -10,13 +10,13 @@ MONGO,EXPRESS,REACT,NODE,Styled Component,Redux-Toolkit,Redux-Persist,React-dom,
 
 -Profile page for the user
 
--roles admin and user
+-Roles Admin and User
 
 -CRUD we Create Post, Read Posts, Update Posts, Delete Posts
 
 -Categories
 
--filter and sort for products
+-Filter and Sort for products
 
 -Product single page
 
