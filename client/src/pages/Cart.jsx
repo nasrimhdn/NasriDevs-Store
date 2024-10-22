@@ -162,6 +162,8 @@ const Button = styled.button`
 
 const Cart = () => {
   const cart = useSelector((state) => state.cart);
+  console.log("cart from cart.jsx issssssss");
+  console.log(cart);
   const [stripeToken, setStripeToken] = useState(null);
   const navigate = useNavigate(); //we use navigate not useHistory
   const onToken = (token) => {
@@ -191,7 +193,7 @@ const Cart = () => {
     };
 
     stripeToken && makeRequest();
-  }, [stripeToken, cart.total]);
+  }, [stripeToken, cart.total, navigate]);
 
   // useEffect(() => {
   //   const makeRequest = async () => {

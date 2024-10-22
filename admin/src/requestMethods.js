@@ -1,17 +1,3 @@
-// import axios from "axios";
-// const BASE_URL = "http://localhost:5050/api/";
-// const TOKEN = JSON.parse(JSON.parse(localStorage.getItem("persist:root")).user)
-//   .currentUser.accessToken;
-// export const publicRequest = axios.create({
-//   baseURL: BASE_URL,
-// });
-
-// export const userRequest = axios.create({
-//   baseURL: BASE_URL,
-//   // headers: { Authorization: `Bearer ${TOKEN}` },
-//   header: { token: `Bearer ${TOKEN}` },
-// });
-
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
