@@ -1,6 +1,6 @@
 # NasriDevs-Store
 
--MERN E-commerce Project 
+-MERN E-commerce Project
 
 MONGO,EXPRESS,REACT,NODE,Styled Component,Redux-Toolkit,Redux-Persist,React-dom,Axios,STRIPE
 
@@ -25,8 +25,6 @@ MONGO,EXPRESS,REACT,NODE,Styled Component,Redux-Toolkit,Redux-Persist,React-dom,
 -Checkout page and payment method
 
 -Visa payment
-
-===UpComig Update===
 
 -Admin Dashboard
 
